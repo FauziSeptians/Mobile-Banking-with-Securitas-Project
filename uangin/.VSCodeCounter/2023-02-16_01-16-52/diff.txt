@@ -1,0 +1,91 @@
+Date : 2023-02-16 01:16:52
+Directory : c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin
+Total : 52 files,  10995 codes, 385 comments, 542 blanks, all 11922 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         51 |     10,990 |        385 |        542 |     11,917 |
+| YAML     |          1 |          5 |          0 |          0 |          5 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                            |         52 |     10,995 |        385 |        542 |     11,922 |
+| . (Files)                                                                                                                                                    |          1 |          5 |          0 |          0 |          5 |
+| lib                                                                                                                                                          |         51 |     10,990 |        385 |        542 |     11,917 |
+| lib (Files)                                                                                                                                                  |          1 |          0 |         -1 |          1 |          0 |
+| lib\classes                                                                                                                                                  |          1 |          3 |          0 |          1 |          4 |
+| lib\contents                                                                                                                                                 |         10 |        972 |         83 |         85 |      1,140 |
+| lib\pages                                                                                                                                                    |         39 |     10,015 |        303 |        455 |     10,773 |
+| lib\pages (Files)                                                                                                                                            |          4 |         21 |         34 |          0 |         55 |
+| lib\pages\QRIS                                                                                                                                               |          1 |        141 |         70 |         16 |        227 |
+| lib\pages\portfolio                                                                                                                                          |         11 |      3,144 |         70 |        151 |      3,365 |
+| lib\pages\profil                                                                                                                                             |          7 |      3,547 |        100 |         99 |      3,746 |
+| lib\pages\reksadana                                                                                                                                          |          1 |        483 |         15 |         22 |        520 |
+| lib\pages\saham                                                                                                                                              |          4 |      2,186 |          0 |        114 |      2,300 |
+| lib\pages\transaksi                                                                                                                                          |          6 |        -66 |          2 |         10 |        -54 |
+| lib\pages\transfer                                                                                                                                           |          5 |        559 |         12 |         43 |        614 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                                     | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\classes\auth_controller.dart                 | Dart     |          3 |          0 |          1 |          4 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\campuran.dart                       | Dart     |          2 |          0 |          0 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\home.dart                           | Dart     |         68 |        -17 |         14 |         65 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\invest.dart                         | Dart     |        244 |          9 |         19 |        272 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\pasaruang.dart                      | Dart     |          2 |          0 |          0 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\pendapatantetap.dart                | Dart     |          2 |          0 |          0 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\portofolio.dart                     | Dart     |        305 |          7 |         28 |        340 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\portofolio2.dart                    | Dart     |        398 |         16 |         18 |        432 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\profil.dart                         | Dart     |        -37 |         68 |          6 |         37 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\saham.dart                          | Dart     |          2 |          0 |          0 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\transaksi.dart                      | Dart     |        -14 |          0 |          0 |        -14 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\main.dart                                    | Dart     |          0 |         -1 |          1 |          0 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\QRIS\qrispage.dart                     | Dart     |        141 |         70 |         16 |        227 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\homepage.dart                          | Dart     |          2 |          0 |          0 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\loginpage.dart                         | Dart     |         22 |          2 |          4 |         28 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\pinpage.dart                           | Dart     |         -5 |         32 |         -4 |         23 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\Jualalert.dart               | Dart     |        741 |          9 |         20 |        770 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\Topup.dart                   | Dart     |        287 |          2 |          7 |        296 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\alokasicontent.dart          | Dart     |        101 |          0 |          6 |        107 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\alokasidana.dart             | Dart     |        140 |         12 |         12 |        164 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\invest.dart                  | Dart     |        130 |         13 |         22 |        165 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\kategori.dart                | Dart     |        115 |          2 |          5 |        122 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\kontenportofolio.dart        | Dart     |        345 |          2 |         25 |        372 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\lainnya.dart                 | Dart     |         95 |          3 |          9 |        107 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\penjualanberhasilpage.dart   | Dart     |        491 |          4 |          5 |        500 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\performacontent.dart         | Dart     |        425 |         19 |         23 |        467 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\portfolio\portopage.dart               | Dart     |        274 |          4 |         17 |        295 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\profil\bantuanpage.dart                | Dart     |        366 |          7 |         12 |        385 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\profil\dataKamus.dart                  | Dart     |          7 |          0 |          2 |          9 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\profil\ektp.dart                       | Dart     |        500 |         18 |         21 |        539 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\profil\kamus.dart                      | Dart     |        445 |          6 |         24 |        475 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\profil\limitpage.dart                  | Dart     |        276 |          0 |         11 |        287 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\profil\profilrisikopage.dart           | Dart     |        217 |          3 |         16 |        236 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\profil\syarat.dart                     | Dart     |      1,736 |         66 |         13 |      1,815 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\reksadana\reksadanadetailpage.dart     | Dart     |        483 |         15 |         22 |        520 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\reksadanapage.dart                     | Dart     |          2 |          0 |          0 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\saham\sahamdetail.dart                 | Dart     |      1,399 |         10 |         32 |      1,441 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\saham\sahammorepage.dart               | Dart     |         34 |        -22 |          3 |         15 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\saham\sahamorder.dart                  | Dart     |         73 |          1 |          4 |         78 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\saham\sahampinpage.dart                | Dart     |        680 |         11 |         75 |        766 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\mutasi.dart                  | Dart     |          9 |         -1 |          1 |          9 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\pembelian.dart               | Dart     |        -44 |         -1 |          2 |        -43 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\pemesanancontent.dart        | Dart     |         20 |          0 |          0 |         20 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\penjualan.dart               | Dart     |        -57 |          0 |          6 |        -51 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\riwayatcontent.dart          | Dart     |          4 |          0 |          1 |          5 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\semua.dart                   | Dart     |          2 |          4 |          0 |          6 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferconfirmationpage.dart | Dart     |        147 |          6 |         18 |        171 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transfernewrek.dart           | Dart     |        370 |          3 |         21 |        394 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferpage.dart             | Dart     |         12 |          2 |          3 |         17 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferpinpage.dart          | Dart     |          1 |          0 |          0 |          1 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferreceipt.dart          | Dart     |         29 |          1 |          1 |         31 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\pubspec.yaml                                     | YAML     |          5 |          0 |          0 |          5 |
+| Total                                                                                                                                                        |          |     10,995 |        385 |        542 |     11,922 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

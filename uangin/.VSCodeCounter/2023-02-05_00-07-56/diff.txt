@@ -1,0 +1,90 @@
+Date : 2023-02-05 00:07:56
+Directory : c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin
+Total : 43 files,  7455 codes, 365 comments, 686 blanks, all 8506 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         36 |      7,373 |        365 |        685 |      8,423 |
+| JSON     |          3 |         60 |          0 |          0 |         60 |
+| YAML     |          1 |         10 |          0 |          0 |         10 |
+| Swift    |          1 |          8 |          0 |          0 |          8 |
+| Groovy   |          2 |          4 |          0 |          1 |          5 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                            |         43 |      7,455 |        365 |        686 |      8,506 |
+| . (Files)                                                                                                                                                    |          1 |         10 |          0 |          0 |         10 |
+| android                                                                                                                                                      |          3 |         50 |          0 |          1 |         51 |
+| android (Files)                                                                                                                                              |          1 |          1 |          0 |          0 |          1 |
+| android\app                                                                                                                                                  |          2 |         49 |          0 |          1 |         50 |
+| ios                                                                                                                                                          |          1 |          7 |          0 |          0 |          7 |
+| lib                                                                                                                                                          |         36 |      7,373 |        365 |        685 |      8,423 |
+| lib (Files)                                                                                                                                                  |          2 |        104 |         16 |          9 |        129 |
+| lib\classes                                                                                                                                                  |          1 |         41 |          0 |         15 |         56 |
+| lib\contents                                                                                                                                                 |          8 |        853 |         53 |         87 |        993 |
+| lib\pages                                                                                                                                                    |         25 |      6,375 |        296 |        574 |      7,245 |
+| lib\pages (Files)                                                                                                                                            |          9 |        331 |         27 |         52 |        410 |
+| lib\pages\reksadana                                                                                                                                          |          1 |      1,365 |         78 |         41 |      1,484 |
+| lib\pages\saham                                                                                                                                              |          1 |        239 |         33 |         38 |        310 |
+| lib\pages\tarikTunai                                                                                                                                         |          3 |      1,295 |         27 |        155 |      1,477 |
+| lib\pages\transaksi                                                                                                                                          |          7 |      1,559 |         41 |         88 |      1,688 |
+| lib\pages\transfer                                                                                                                                           |          4 |      1,586 |         90 |        200 |      1,876 |
+| macos                                                                                                                                                        |          2 |         15 |          0 |          0 |         15 |
+| macos (Files)                                                                                                                                                |          1 |          7 |          0 |          0 |          7 |
+| macos\Flutter                                                                                                                                                |          1 |          8 |          0 |          0 |          8 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                                     | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\android\app\build.gradle                         | Groovy   |          3 |          0 |          1 |          4 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\android\app\google-services.json                 | JSON     |         46 |          0 |          0 |         46 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\android\build.gradle                             | Groovy   |          1 |          0 |          0 |          1 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\ios\firebase_app_id_file.json                    | JSON     |          7 |          0 |          0 |          7 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\classes\auth_controller.dart                 | Dart     |         41 |          0 |         15 |         56 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\campuran.dart                       | Dart     |         24 |          0 |          1 |         25 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\home.dart                           | Dart     |        262 |         28 |         42 |        332 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\invest.dart                         | Dart     |         55 |          0 |         10 |         65 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\pasaruang.dart                      | Dart     |         16 |          0 |          1 |         17 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\pendapatantetap.dart                | Dart     |         22 |          0 |          0 |         22 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\profil.dart                         | Dart     |        170 |         22 |         22 |        214 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\saham.dart                          | Dart     |         22 |          0 |          0 |         22 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\contents\transaksi.dart                      | Dart     |        282 |          3 |         11 |        296 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\firebase_options.dart                        | Dart     |         66 |         12 |          6 |         84 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\main.dart                                    | Dart     |         38 |          4 |          3 |         45 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\changepinpage.dart                     | Dart     |          9 |          5 |          3 |         17 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\changepinpage2.dart                    | Dart     |         -2 |          4 |          0 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\changepinpage3.dart                    | Dart     |          4 |          4 |          1 |          9 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\homepage.dart                          | Dart     |        110 |          9 |          8 |        127 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\loginpage.dart                         | Dart     |        186 |          1 |         19 |        206 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\mainpage.dart                          | Dart     |          0 |          1 |          5 |          6 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\pinpage.dart                           | Dart     |         23 |          3 |         14 |         40 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\reksadana\reksadanadetailpage.dart     | Dart     |      1,365 |         78 |         41 |      1,484 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\saham\sahammorepage.dart               | Dart     |        239 |         33 |         38 |        310 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\sbnpage.dart                           | Dart     |          0 |          0 |          2 |          2 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\setortunaipage.dart                    | Dart     |          1 |          0 |          0 |          1 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\tarikTunai\tariktunaipage.dart         | Dart     |        431 |         10 |         35 |        476 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\tarikTunai\tariktunaipinpage.dart      | Dart     |        687 |         14 |         80 |        781 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\tarikTunai\tariktunaireceiptpage.dart  | Dart     |        177 |          3 |         40 |        220 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\mutasi.dart                  | Dart     |        203 |         12 |         23 |        238 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\pembelian.dart               | Dart     |        197 |          3 |          5 |        205 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\pemesanancontent.dart        | Dart     |        170 |          1 |          9 |        180 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\pemesananwidget.dart         | Dart     |        116 |          0 |          4 |        120 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\penjualan.dart               | Dart     |        216 |          2 |          5 |        223 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\riwayatcontent.dart          | Dart     |         93 |          1 |         10 |        104 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transaksi\semua.dart                   | Dart     |        564 |         22 |         32 |        618 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferconfirmationpage.dart | Dart     |        405 |         20 |         32 |        457 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferpage.dart             | Dart     |        250 |         12 |         23 |        285 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferpinpage.dart          | Dart     |        687 |         14 |         78 |        779 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\lib\pages\transfer\transferreceipt.dart          | Dart     |        244 |         44 |         67 |        355 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\macos\Flutter\GeneratedPluginRegistrant.swift    | Swift    |          8 |          0 |          0 |          8 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\macos\firebase_app_id_file.json                  | JSON     |          7 |          0 |          0 |          7 |
+| c:\Users\julsa\Documents\Barang jul\Document\Kuliah\Cawu 4\Software Engineering\Project\Uangin_alpha\uangin\pubspec.yaml                                     | YAML     |         10 |          0 |          0 |         10 |
+| Total                                                                                                                                                        |          |      7,455 |        365 |        686 |      8,506 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

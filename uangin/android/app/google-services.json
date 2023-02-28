@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "438474764656",
+    "project_id": "uangin-ppti11",
+    "storage_bucket": "uangin-ppti11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438474764656:android:9f6a39df916822f2f7dfb5",
+        "android_client_info": {
+          "package_name": "com.example.uangin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438474764656-pg4t7ljf6ukhpd32biuh254crvpik1na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAGG3oZPU5xLunUi-rno3pqtW3uJqenXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438474764656-pg4t7ljf6ukhpd32biuh254crvpik1na.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438474764656-isp1nog8q1k8ud1njrijruttdsgccs4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uangin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
